@@ -1,0 +1,1 @@
+var json_Buffer_flooding_of_river_Kodnica_300m_4 = {"type":"FeatureCollection","name":"Buffer_flooding_of_river_Kodnica_300m_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

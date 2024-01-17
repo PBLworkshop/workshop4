@@ -1,0 +1,1 @@
+var json_High_Risk_offlooding_oncology_hospital_15 = {"type":"FeatureCollection","name":"High_Risk_offlooding_oncology_hospital_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
